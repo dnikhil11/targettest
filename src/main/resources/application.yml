@@ -1,0 +1,13 @@
+server:
+  port : 8090
+
+  
+logging:
+  file : D:/log/myapp.log
+  level:
+    ROOT: INFO
+
+lowerlimit: 10
+upperlimit: 90
+  
+ 
