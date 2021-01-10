@@ -6,4 +6,3 @@ then
 else
   echo "Number is odd."
 fi
-done
